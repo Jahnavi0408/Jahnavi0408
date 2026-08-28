@@ -3,7 +3,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.</h1>
 <p>Welcome to my page! </p>
 
-</br>  I'm Jahnavi Kollu, a passionate and results-driven Computer Science graduate student based in <b>University at Buffalo</b> with 4.0/4.0 CGPA. I am open to exciting opportunities and eager to contribute to innovative projects.
+</br> 🚀 Currently: Working as a Software Engineer II at Microsoft.
+💼 Previous Experience: Worked as a Software Engineering Intern at Johnson & Johnson.
+🎓 Education: Computer Science graduate from the University at Buffalo, with a 4.0/4.0 CGPA.
 
 <h4>These are some of the technologies and tools that I work with:</h4>
 
