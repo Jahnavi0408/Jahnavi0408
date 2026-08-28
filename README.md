@@ -3,9 +3,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.</h1>
 <p>Welcome to my page! </p>
 
-</br> 🚀 Currently: Working as a Software Engineer II at Microsoft.
-💼 Previous Experience: Worked as a Software Engineering Intern at Johnson & Johnson.
-🎓 Education: Computer Science graduate from the University at Buffalo, with a 4.0/4.0 CGPA.
+<p>
+🚀 <b>Currently:</b> Working as a Software Engineer II at <b>Microsoft</b>.<br><br>
+💼 <b>Previous Experience:</b> Worked as a Software Engineering Intern at <b>Johnson & Johnson</b>.<br><br>
+🎓 <b>Education:</b> Computer Science graduate from the <b>University at Buffalo</b>, with a <b>4.0/4.0 CGPA</b>.
+</p>
 
 <h4>These are some of the technologies and tools that I work with:</h4>
 
