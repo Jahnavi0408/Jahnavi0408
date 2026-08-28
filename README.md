@@ -33,8 +33,7 @@
   <img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=fflat-square&logo=googlecolab&color=525252" />
 </p>
 <h4>Where to find me</h4>
-<!-- <p>
-  <a href="https://github.com/Saideepthi123" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/saideepthi-korupolu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="skorupo1@" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
-</p> -->
+<p>
+  <a href="https://www.linkedin.com/in/jahnavi-kollu-3b26271a6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="jahnavikollu11@" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
+</p>
